@@ -1,14 +1,15 @@
 import './App.css'
-import { ApicoffeeCarruselBasic } from './components/ApicoffeeCarruselBasic'
+import { ApiCoffeeCarruselB } from './components/ApiCoffeeCarruselB';
+
 
 function App() {
 
   
   return (
     <div>
-      <ApicoffeeCarruselBasic />
+      <ApiCoffeeCarruselB />
     </div>
   )
 }
 
-export default App
+export default App;
